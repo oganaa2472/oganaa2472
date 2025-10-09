@@ -10,6 +10,12 @@ I am passionate about creating clean, test-driven code and architecting systems 
   <a href="https://portfolio-kohl-phi-92.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
   </a>
+  <a href="https://leetcode.com/u/oganaa2472/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://gitlab.com/Gantogtokh" target="_blank">
+    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
+  </a>
   <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -17,54 +23,68 @@ I am passionate about creating clean, test-driven code and architecting systems 
 
 - 🌱 **Currently:** Deepening my expertise in Test-Driven Development (TDD) and Clean Architecture workflows.
 - 👯 **Open to:** Challenging mobile roles (Flutter) or full-stack positions with a strong UI/UX focus.
-- 📫 **How to reach me:** `your.email@example.com`
+- 📫 **How to reach me:** `oganaa2472@gmail.com`
 
 ---
 
-## 🛠️ My Tech Stack & Tools
+## 🎓 Education
+**Maharishi International University**
+- *Master of Science in Computer Science (or your specific degree)*
+- *Expected Graduation: 2025*
 
+---
+
+## 🛠️ My Tech Stack
+
+### Languages & Frameworks
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-      </a>
       <br>Dart
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      </a>
       <br>Node.js
-    </td>
-     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      </a>
-      <br>Git
     </td>
   </tr>
 </table>
 
-**Core Concepts:** Clean Architecture, TDD, BLoC/Cubit, REST APIs, CI/CD, Dependency Injection (GetIt), Functional Programming (dartz).
+### Cloud & Tools
+<table>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
+      <br>GH Actions
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+  </tr>
+</table>
+
+### Core Concepts
+- **Architectures:** Clean Architecture, Domain-Driven Design (DDD)
+- **Methodologies:** Test-Driven Development (TDD), CI/CD
+- **State Management:** BLoC, Cubit
+- **Principles:** REST APIs, Dependency Injection, Functional Programming
 
 ---
 
