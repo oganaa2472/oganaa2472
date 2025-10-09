@@ -7,6 +7,9 @@ I'm a Software Developer with over 5 years of experience building high-quality, 
 I am passionate about creating clean, test-driven code and architecting systems that prioritize an excellent developer experience.
 
 <p align="left">
+  <a href="https://github.com/oganaa2472" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
   <a href="https://portfolio-kohl-phi-92.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio"/>
   </a>
@@ -28,9 +31,9 @@ I am passionate about creating clean, test-driven code and architecting systems 
 ---
 
 ## 🎓 Education
-**Maharishi International University**
-- *Master of Science in Computer Science (or your specific degree)*
-- *Expected Graduation: 2025*
+**Maharishi International University** — *Fairfield, IA*
+- Master of Science in Computer Science *(Please update with your specific degree)*
+- Expected Graduation: 2025
 
 ---
 
