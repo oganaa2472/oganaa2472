@@ -77,7 +77,7 @@ I'm a Software Developer with over 5 years of experience building high-quality, 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :---: |
-| **[The Tour]([https://github.com/oganaa2472/wash_service](https://github.com/oganaa2472/nodejs))** | •	Developed a full-stack tour booking application using React, Node.js, Express, and MongoDB, allowing users to explore, book, and review sightseeing tours. | `Express`, `Node`, `React` |
+| **[The Tour](https://github.com/oganaa2472/nodejs)** | •	Developed a full-stack tour booking application using React, Node.js, Express, and MongoDB, allowing users to explore, book, and review sightseeing tours. | `Express`, `Node`, `React` |
 | **[wash_service](https://github.com/oganaa2472/wash_service)** | A starter template demonstrating Clean Architecture in a Flutter application. | `Flutter`, `Clean Architecture`, `BLoC` |
 | **[tdd_tutorial](https://github.com/oganaa2472/tdd_tutorial)** | A practical guide to Flutter TDD using BLoC/Cubit and Dependency Injection. | `Flutter`, `TDD`, `BLoC`, `GetIt` |
 | **[codepipeline-react](https://github.com/oganaa2472/codepipeline-react)** | A sample project demonstrating a CI/CD pipeline for a React application using AWS. | `React`, `AWS CodePipeline`, `CI/CD` |
