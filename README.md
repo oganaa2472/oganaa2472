@@ -1,4 +1,4 @@
-<p align="center">
+<img width="468" height="41" alt="image" src="https://github.com/user-attachments/assets/641fbe21-c67f-4b86-a938-0b39d53b88fd" /><p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Gantogtokh%20(Oganaa)&fontSize=70&fontAlignY=38" alt="Header Banner"/>
 </p>
 
@@ -77,6 +77,7 @@ I'm a Software Developer with over 5 years of experience building high-quality, 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :---: |
+| **[The Tour](https://github.com/oganaa2472/wash_service)** | •	Developed a full-stack tour booking application using React, Node.js, Express, and MongoDB, allowing users to explore, book, and review sightseeing tours. | `Express`, `Node`, `React` |
 | **[wash_service](https://github.com/oganaa2472/wash_service)** | A starter template demonstrating Clean Architecture in a Flutter application. | `Flutter`, `Clean Architecture`, `BLoC` |
 | **[tdd_tutorial](https://github.com/oganaa2472/tdd_tutorial)** | A practical guide to Flutter TDD using BLoC/Cubit and Dependency Injection. | `Flutter`, `TDD`, `BLoC`, `GetIt` |
 | **[codepipeline-react](https://github.com/oganaa2472/codepipeline-react)** | A sample project demonstrating a CI/CD pipeline for a React application using AWS. | `React`, `AWS CodePipeline`, `CI/CD` |
