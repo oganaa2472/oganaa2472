@@ -6,8 +6,9 @@
 
 # Full-Stack & Mobile Developer
 
-I'm a Software Developer with over 5 years of experience building high-quality, scalable, and maintainable applications. My expertise spans mobile development with **Flutter** and full-stack web development with **React** and **Node.js**. I am passionate about creating clean, test-driven code and architecting systems that prioritize an excellent developer experience.
+I’m a passionate Software Developer with over 5 years of experience building high-performance mobile and web applications. I specialize in creating seamless user experiences using Flutter, Kotlin, React, and Nuxt.js, and developing robust backend systems with Node.js and PostgreSQL. I enjoy solving complex problems, optimizing performance, and writing clean, maintainable code.
 
+As an active competitive programmer, I’ve solved 1,400+ LeetCode problems and rank in the Top 2.22% globally with a Knight badge, demonstrating strong expertise in algorithms, data structures, and dynamic programming. I’m passionate about turning challenges into scalable, real-world solutions that create lasting impact.
 </div>
 
 <p align="center">
