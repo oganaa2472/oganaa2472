@@ -48,6 +48,14 @@ As an active competitive programmer, I’ve solved 1,400+ LeetCode problems and 
 
 ---
 
+## 🛠️ Skills
+
+- **Frontend:** React, Vue, Nuxt, Flutter, Jetpack Compose  
+- **Backend:** Node.js, Express, Firebase, MongoDB, PostgreSQL  
+- **Mobile:** Flutter (iOS & Android), Kotlin (Android)  
+- **Other:** GraphQL, REST API, CI/CD (AWS CodePipeline), Docker, Git  
+- **Algorithms & DS:** Graphs, Dynamic Programming, Greedy, Bitmask, Trees, Strings  
+
 ### 🛠️ My Tech Stack
 
 #### Languages & Frameworks
@@ -74,19 +82,84 @@ As an active competitive programmer, I’ve solved 1,400+ LeetCode problems and 
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :---: |
- **[Tour Explorer (Android)](https://github.com/oganaa2472/tour_app)** | • Developed a modern Android travel app that lets users explore, bookmark, and view detailed sightseeing tours. Integrated with a Node.js backend for authentication, tour data, and AI-generated profile photos. | `Android`, `Kotlin`, `Jetpack Compose`, `MVVM`, `Retrofit`, `WorkManager`, `Google Maps` |
-| **[The Tour](https://github.com/oganaa2472/nodejs)** | •	Developed a full-stack tour booking application using React, Node.js, Express, and MongoDB, allowing users to explore, book, and review sightseeing tours. | `Express`, `Node`, `React` |
-| **[wash_service](https://github.com/oganaa2472/wash_service)** | A starter template demonstrating Clean Architecture in a Flutter application. | `Flutter`, `Clean Architecture`, `BLoC` |
-| **[tdd_tutorial](https://github.com/oganaa2472/tdd_tutorial)** | A practical guide to Flutter TDD using BLoC/Cubit and Dependency Injection. | `Flutter`, `TDD`, `BLoC`, `GetIt` |
-| **[codepipeline-react](https://github.com/oganaa2472/codepipeline-react)** | A sample project demonstrating a CI/CD pipeline for a React application using AWS. | `React`, `AWS CodePipeline`, `CI/CD` |
-| **[codepipeline-nodejs](https://github.com/oganaa2472/codepipeline-nodejs)** | A sample project demonstrating a CI/CD pipeline for a Node.js backend using AWS. | `Node.js`, `AWS CodePipeline`, `CI/CD` |
+### Mobile Apps
+
+- **[Tour Explorer (Android)](https://github.com/oganaa2472/tour_app)** – Travel app with tour exploration, bookmarking, and AI-generated profile photos.  
+  _Tech:_ Kotlin, Jetpack Compose, MVVM, Retrofit, WorkManager, Google Maps  
+
+- **[Удам](https://play.google.com/store/apps/details?id=mn.starsoft.udam2&hl=en&gl=US)** – Language learning app improving communication skills by 40%.  
+  _Tech:_ Flutter, Firebase, MongoDB, SQLite  
+
+- **[Smart Teever](https://apps.apple.com/cn/app/%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D1%82%D1%8D%D1%8D%D0%B2%D1%8D%D1%80/id1552157480)** – Mining logistics app with real-time driver tracking and route optimization.  
+  _Tech:_ Flutter, Firebase, WebSocket, Google Maps API, SQLite  
+
+- **[Nsudalgaa Application](https://apps.apple.com/cn/app/nsudalgaa/id6444903501)** – Survey app with offline support, audio capture, and geolocation tagging.  
+  _Tech:_ Flutter, Firebase, GraphQL  
+
+- **[Accepted App](https://apps.apple.com/cn/app/accepted/id6443476222)** – Coding education app for kids with interactive exercises.  
+  _Tech:_ Flutter, Firebase, GraphQL  
 
 ---
 
+### Web & Full-Stack Projects
+
+- **[The Tour](https://github.com/oganaa2472/nodejs)** – Full-stack tour booking application.  
+  _Tech:_ React, Node.js, Express, MongoDB  
+
+- **[БАГШ Platform](https://bagsh.edu.mn/)** – LMS portal with dashboards increasing client retention by 35%.  
+  _Tech:_ Nuxt, Vue, Node.js, MongoDB, PostgreSQL, Bootstrap  
+
+- **[Accepted.mn](https://www.accepted.mn/)** – Coding education web platform with interactive lessons.  
+  _Tech:_ Vue, Tailwind, Redis, PostgreSQL  
+
+- **[Nsudalgaa.mn](https://nsudalgaa.mn/)** – Admin panel for surveys and reporting.  
+  _Tech:_ TypeScript, Nuxt, Tailwind, GraphQL  
+
+- **[CodePipeline Projects](https://github.com/oganaa2472/codepipeline-react)** – CI/CD pipeline examples for React & Node.js using AWS.  
+  _Tech:_ AWS CodePipeline, React, Node.js  
+
+- **[The Wild Oasis](https://the-wild-oasis.netlify.app/)** – Hotel management dashboard built with React and advanced patterns.  
+  _Tech:_ React, React Query, Styled Components, React Hook Form, Supabase, Charts  
+
+---
+
+### Competitive Programming
+
+- **[LeetCode](https://leetcode.com/u/keeplearning99/)** – Solved 1,400+ problems, top 5% global ranking.  
+  _Focus:_ Graphs, Dynamic Programming, Greedy  
+
+---
+
+### Smaller Projects
+
+- **[Travel List](https://travel-list-mng.netlify.app/)** – React app for managing travel destinations.  
+- **[usePopcorn](https://usepopcorn.netlify.app/)** – Custom hook example with API data fetching.  
+- **[Classy Weather](https://classic-weather.netlify.app/)** – Weather app using React class components.  
+- **[Quiz App](https://the-react-quiz.netlify.app/)** – Quiz app using `useReducer`.  
+- **[WorldWise](https://worldwise-jonas.netlify.app/)** – Map & info app demonstrating React advanced patterns.  
+- **[Fast-Pizza](https://fast-pizza-mng.netlify.app/)** – Pizza ordering app with Redux Toolkit & Tailwind.  
+- **[My Portfolio](https://portfolio-kohl-phi-92.vercel.app/)** – Personal portfolio built with React & Next.js.  
+
+---
+
+## 📈 Achievements
+
+- Top 5% global ranking on **LeetCode**  
+- Built multiple production-grade mobile & web apps  
+- Increased user engagement by 40%+ on learning apps  
+- Boosted organizational revenue by 20%+ with survey & logistics apps  
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub:** [https://github.com/oganaa2472](https://github.com/oganaa2472)  
+- **LeetCode:** [https://leetcode.com/u/keeplearning99/](https://leetcode.com/u/keeplearning99/)  
+- **Portfolio:** [https://portfolio-kohl-phi-92.vercel.app/](https://portfolio-kohl-phi-92.vercel.app/)  
+
+---
 ### 💡 My Development Philosophy
 
 - **Layered Architecture:** I structure my apps using a clear separation of concerns (Presentation → Domain → Data) to ensure scalability and testability.
