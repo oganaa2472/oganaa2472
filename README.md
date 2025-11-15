@@ -69,9 +69,8 @@ As an active competitive programmer, I’ve solved 1,400+ LeetCode problems and 
 
 #### Cloud & Tools
 <p align-center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="48" height="48" alt="AWS" />
+ 
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,react,vue,node,ts,js,html,css,bootstrap,tailwind,postgres,mysql,mongodb,redis,aws,docker,git,github,githubactions,gitlab,postman,powershell,java,visualstudio,vscode,idea,notion" />
 </p>
 
 #### Core Concepts
