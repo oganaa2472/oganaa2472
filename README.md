@@ -70,7 +70,7 @@ As an active competitive programmer, I’ve solved 1,400+ LeetCode problems and 
 #### Cloud & Tools
 <p align-center">
  
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,react,vue,node,ts,js,html,css,bootstrap,tailwind,postgres,mysql,mongodb,redis,aws,docker,git,github,githubactions,gitlab,postman,powershell,java,visualstudio,vscode,idea,notion" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,react,vue,node js,sqlite,ts,js,html,css,bootstrap,tailwind,postgres,mysql,mongodb,redis,aws,docker,git,github,githubactions,gitlab,postman,powershell,java,visualstudio,vscode,idea,notion" />
 </p>
 
 #### Core Concepts
