@@ -6,7 +6,7 @@
 
 # Full-Stack & Mobile Developer
 
-I’m a passionate Software Developer with over 5 years of experience building high-performance mobile and web applications. I specialize in creating seamless user experiences using Flutter, Kotlin, React, and Nuxt.js, and developing robust backend systems with Node.js and PostgreSQL. I enjoy solving complex problems, optimizing performance, and writing clean, maintainable code.
+Software Developer with over 5 years of experience building high-quality web and mobile applications. Proficient in JavaScript, TypeScript, Flutter, React, and Node.js, with a strong background in creating scalable backend services and dynamic user interfaces. Skilled in solving complex problems, optimizing application performance, and writing clean, maintainable code. Experienced in Docker, Kubernetes, and AWS for containerization, orchestration, and cloud-based solutions. Passionate about turning challenges into smart, scalable solutions.
 
 As an active competitive programmer, I’ve solved 1,400+ LeetCode problems and rank in the Top 2.22% globally with a Knight badge, demonstrating strong expertise in algorithms, data structures, and dynamic programming. I’m passionate about turning challenges into scalable, real-world solutions that create lasting impact.
 </div>
@@ -50,10 +50,10 @@ As an active competitive programmer, I’ve solved 1,400+ LeetCode problems and 
 
 ## 🛠️ Skills
 
-- **Frontend:** React, Vue, Nuxt, Flutter, Jetpack Compose  
+- **Frontend:** React, Vue, Nuxt, Flutter, Android(Kotlin)  
 - **Backend:** Node.js, Express, Firebase, MongoDB, PostgreSQL  
 - **Mobile:** Flutter (iOS & Android), Kotlin (Android)  
-- **Other:** GraphQL, REST API, CI/CD (AWS CodePipeline), Docker, Git  
+- **Other:** GraphQL, REST API, CI/CD (AWS CodePipeline), Docker, Git, AWS, Kubernetes
 - **Algorithms & DS:** Graphs, Dynamic Programming, Greedy, Bitmask, Trees, Strings  
 
 ### 🛠️ My Tech Stack
@@ -74,9 +74,9 @@ As an active competitive programmer, I’ve solved 1,400+ LeetCode problems and 
 </p>
 
 #### Core Concepts
-- **Architectures:** Clean Architecture, Domain-Driven Design (DDD)
-- **Methodologies:** Test-Driven Development (TDD), CI/CD
-- **State Management:** BLoC, Cubit
+- **Architectures:** Clean Architecture, Domain-Driven Design (DDD), Microservice, MVVM, MVI, MVC
+- **Methodologies:** Test-Driven Development (TDD), CI/CD,Cloud Formation
+- **State Management:** BLoC, Cubit,
 - **Principles:** REST APIs, Dependency Injection, Functional Programming
 
 ---
