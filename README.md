@@ -50,21 +50,51 @@ As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and 
 
 ---
 
-## 🛠️ Skills
+## 🛠 Technical Skills
 
-•	Kotlin, Dart, JavaScript, TypeScript, C++, Java 
-•	Flutter, React, Next, Tailwind, Nuxt, Vue
-•	AWS (EC2, RDS, SQS, Lambda, S3, CDN, Cognito, EventBridge, DynamoDb, SNS, ApiGateway)
-•	PostgeSQL, MongoDb, Firebase, SQLite, REDIS, MYSQL
-•	Singleton,Dependency Injection, Observer, Serveless, Monolith, Pub/Sub, Microservice
-•	Node.js, Express, Docker, CI/CD (GitHub Actions), Kubernetes
-•	Jetpack Compose,View Model, Coroutines, Flow, 
-•	Room, Navigation, Hilt, Clean Architicure, MVVM WorkManager,Testing, Retrofit, Code Review
-•	REST APIs, Websockets, GraphQL, Generative AI 
-•	Jira, GitHub, GitLab, Bloc, Provider, GetIt
-•	Load Balancing, Rate Limiting 
-<img width="468" height="171" alt="image" src="https://github.com/user-attachments/assets/36932731-8e35-4971-a1e9-1ebbe42bdbcd" />
+### 💻 Programming Languages
+- Kotlin, Dart, JavaScript, TypeScript, C++, Java
 
+### 🎨 Frontend & UI
+- Flutter, React, Next.js, Nuxt.js, Vue.js
+- Tailwind CSS
+
+### 📱 Android Development
+- Jetpack Compose, ViewModel
+- Coroutines, Flow
+- Room, Navigation, WorkManager
+- Hilt (Dependency Injection)
+- MVVM, Clean Architecture
+- Retrofit, Testing, Code Review
+
+### ☁️ Cloud & DevOps
+- AWS: EC2, RDS, SQS, Lambda, S3, CloudFront (CDN), Cognito  
+  EventBridge, DynamoDB, SNS, API Gateway
+- Docker, Kubernetes
+- CI/CD: GitHub Actions
+
+### 🧩 Backend & Architecture
+- Node.js, Express
+- REST APIs, WebSockets, GraphQL
+- Microservices, Event-Driven Architecture
+- Pub/Sub, Serverless, Monolith
+- Design Patterns: Singleton, Dependency Injection, Observer
+
+### 🗄 Databases & Caching
+- PostgreSQL, MySQL
+- MongoDB, Firebase, SQLite
+- Redis
+
+### 🔌 State Management & Tools
+- Bloc, Provider, GetIt
+- Jira, GitHub, GitLab
+
+### ⚙️ System Design & Performance
+- Load Balancing
+- Rate Limiting
+
+### 🤖 Emerging Technologies
+- Generative AI
 
 ### 🛠️ My Tech Stack
 
@@ -103,11 +133,23 @@ As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and 
 - **[Accepted App](https://apps.apple.com/cn/app/accepted/id6443476222)** – Coding education app for kids with interactive exercises.  
   _Tech:_ Flutter, Firebase, GraphQL  
 - **[Weather App](https://github.com/oganaa2472/WeatherApp)** –  small, modern Android weather application implemented in Kotlin.  
-  _Tech:_ Kotlin, Hilt, Repository  
+  _Tech:_ Kotlin, Hilt, Repository
+- **[Education](https://github.com/oganaa2472/education)** – Flutter Repository Pattern + BLoC project
+  _Tech:_ FLutter,Dart,BLOC, Repository pattern,
+  - **[Wash Service](https://github.com/oganaa2472/wash_service)** – Flutter Repository Pattern + BLoC project
+  _Tech:_ FLutter,Dart,BLOC, Repository pattern,  
 ---
 
 ### Web & Full-Stack Projects
+- **[E-commerce ](https://github.com/oganaa2472/e-commerce-)** – This is a Serverless Event-driven E-commerce project for TypeScript development with CDK. The `cdk.json` file tells the CDK Toolkit how to execute your app.
+    _Tech:_ React, Node.js, Lambda, SQS, API Gateway, DynomaDB, EventBridge, CKD toolkit, Docker  
 
+- **[Ticket ](https://github.com/oganaa2472/ticketing)** –This repository contains a microservices-based ticketing application used for demos. The services are split into separate folders (for example, auth, tickets, orders, payments, expiration, and client) and are designed to be developed, tested, and deployed independently. 
+    _Tech:_ React, Node.js, GithubActions, Docker, Kubernetes, MongoDB, Redis, Event-Driven-Architecture, Microservice, Nat Streaming, TypeScript, Js.
+- **[Blog ](https://github.com/oganaa2472/blog)** – Microservice archictecture with docker&kubernetes&react&node basic concepts
+    _Tech:_ React, Node.js, Docker, Kubernetes, Worker, Redis, Event-Driven-Architecture, Microservice, TypeScript, Js
+ - **[Github action](https://github.com/oganaa2472/gh-first-action)** – Basic github actions command 
+    _Tech:_ CI/CD 
 - **[The Tour](https://github.com/oganaa2472/nodejs)** – Full-stack tour booking application.  
   _Tech:_ React, Node.js, Express, MongoDB  
 
