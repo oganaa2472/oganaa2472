@@ -6,9 +6,11 @@
 
 # Full-Stack & Mobile Developer
 
-Software Developer with over 5 years of experience building high-quality web and mobile applications. Proficient in JavaScript, TypeScript, Flutter, React, and Node.js, with a strong background in creating scalable backend services and dynamic user interfaces. Skilled in solving complex problems, optimizing application performance, and writing clean, maintainable code. Experienced in Docker, Kubernetes, and AWS for containerization, orchestration, and cloud-based solutions. Passionate about turning challenges into smart, scalable solutions.
+Software Developer with over 5 years of experience building high-quality web, mobile, and Android applications. Proficient in JavaScript, TypeScript, Flutter, React, Node.js, and Android development using Kotlin, with a strong background in designing scalable backend services using microservices and event-driven architectures. Experienced in building resilient APIs, asynchronous workflows, and distributed systems that power dynamic user interfaces across platforms.
 
-As an active competitive programmer, I’ve solved 1,400+ LeetCode problems and rank in the Top 2.22% globally with a Knight badge, demonstrating strong expertise in algorithms, data structures, and dynamic programming. I’m passionate about turning challenges into scalable, real-world solutions that create lasting impact.
+Skilled in solving complex problems, optimizing application performance, and writing clean, maintainable code. Hands-on experience with Docker, Kubernetes, and AWS for containerization, orchestration, and cloud-native deployments. Passionate about turning technical challenges into smart, scalable, and production-ready solutions.
+
+As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and rank in the Top 2.22% globally (Knight badge), demonstrating strong expertise in algorithms, data structures, and dynamic programming. I thrive on applying algorithmic thinking to build scalable, real-world systems that create lasting impact.
 </div>
 
 <p align="center">
