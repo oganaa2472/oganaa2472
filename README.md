@@ -10,7 +10,7 @@ Software Developer with over 5 years of experience building high-quality web, mo
 
 Skilled in solving complex problems, optimizing application performance, and writing clean, maintainable code. Hands-on experience with Docker, Kubernetes, and AWS for containerization, orchestration, and cloud-native deployments. Passionate about turning technical challenges into smart, scalable, and production-ready solutions.
 
-As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and rank in the Top 2.22% globally (Knight badge), demonstrating strong expertise in algorithms, data structures, and dynamic programming. I thrive on applying algorithmic thinking to build scalable, real-world systems that create lasting impact.
+As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and rank in the Top 2.22% globally (Knight badge), demonstrating strong expertise in algorithms, data structures, and dynamic programming. I thrive on applying algorithmic thinking to build scalable, real-world systems that create lasting impact. Selected projects and algorithmic solutions are available on GitHub, and I regularly share technical insights on my blog: github.com/oganaa2472 | oganaa.hashnode.dev
 </div>
 
 <p align="center">
