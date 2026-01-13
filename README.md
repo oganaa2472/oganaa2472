@@ -108,19 +108,19 @@ As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and 
   _Tech:_ Flutter, Firebase, MongoDB, SQLite  
 
 - **[Smart Teever](https://apps.apple.com/cn/app/%D1%81%D0%BC%D0%B0%D1%80%D1%82-%D1%82%D1%8D%D1%8D%D0%B2%D1%8D%D1%80/id1552157480)** – Mining logistics app with real-time driver tracking and route optimization.  
-  _Tech:_ Flutter, Firebase, WebSocket, Google Maps API, SQLite  
+  _Tech:_ Flutter, Firebase, WebSocket, Google Maps API, SQLite.
 
 - **[Nsudalgaa Application](https://apps.apple.com/cn/app/nsudalgaa/id6444903501)** – Survey app with offline support, audio capture, and geolocation tagging.  
-  _Tech:_ Flutter, Firebase, GraphQL  
+  _Tech:_ Flutter, Firebase, GraphQL.
 
 - **[Accepted App](https://apps.apple.com/cn/app/accepted/id6443476222)** – Coding education app for kids with interactive exercises.  
-  _Tech:_ Flutter, Firebase, GraphQL  
+  _Tech:_ Flutter, Firebase, GraphQL  .
 - **[Weather App](https://github.com/oganaa2472/WeatherApp)** –  small, modern Android weather application implemented in Kotlin.  
-  _Tech:_ Kotlin, Hilt, Repository
+  _Tech:_ Kotlin, Hilt, Repository.
 - **[Education](https://github.com/oganaa2472/education)** – Flutter Repository Pattern + BLoC project
-  _Tech:_ FLutter,Dart,BLOC, Repository pattern,
-  - **[Wash Service](https://github.com/oganaa2472/wash_service)** – Flutter Repository Pattern + BLoC project
-  _Tech:_ FLutter,Dart,BLOC, Repository pattern,  
+_Tech:_ FLutter,Dart,BLOC, Repository pattern.
+- **[Wash Service](https://github.com/oganaa2472/wash_service)** – Flutter Repository Pattern + BLoC project
+_Tech:_ FLutter,Dart,BLOC, Repository pattern.  
 ---
 
 ### Web & Full-Stack Projects
