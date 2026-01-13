@@ -37,8 +37,8 @@ As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and 
 ---
 
 ### 📝 About Me
-- 🌱 **Currently:** Deepening my expertise in Test-Driven Development (TDD) and Clean Architecture workflows.
-- 👯 **Open to:** Challenging mobile roles (Flutter,React,Node,Android) or full-stack positions with a strong UI/UX focus.
+- 🌱 **Currently:** Deepening my expertise in Test-Driven Development (TDD),Event-Driven Architecture and Clean Architecture workflows.
+- 👯 **Open to:** Challenging mobile roles (Flutter,React,Node,Android,AWS,Docker,Kubernetes) or full-stack positions with a strong UI/UX focus.
 - 📫 **How to reach me:** `oganaa2472@gmail.com`
 
 ---
