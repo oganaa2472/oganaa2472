@@ -68,7 +68,7 @@ As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and 
 - Retrofit, Testing, Code Review
 
 ### ☁️ Cloud & DevOps
-- AWS: EC2, RDS, SQS, Lambda, S3, CloudFront (CDN), Cognito  
+- AWS: EC2, RDS, SQS, Lambda, S3, CloudFront (CDN), Cognito,CDK , CloudFormation
   EventBridge, DynamoDB, SNS, API Gateway
 - Docker, Kubernetes
 - CI/CD: GitHub Actions
@@ -95,23 +95,6 @@ As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and 
 
 ### 🤖 Emerging Technologies
 - Generative AI
-
-### 🛠️ My Tech Stack
-
-#### Languages & Frameworks
-<p align-center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="48" height="48" alt="Dart" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="48" height="48" alt="Flutter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-</p>
-
-#### Cloud & Tools
-<p align-center">
- 
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,react,vue,nodejs,sqlite,ts,js,html,css,bootstrap,tailwind,postgres,mysql,mongodb,redis,aws,docker,git,github,githubactions,gitlab,postman,powershell,java,visualstudio,vscode,idea,notion" />
-</p>
 
 ## 🚀 Featured Projects
 
