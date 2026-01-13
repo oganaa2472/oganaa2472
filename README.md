@@ -52,11 +52,19 @@ As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and 
 
 ## 🛠️ Skills
 
-- **Frontend:** React, Vue, Nuxt, Flutter, Android(Kotlin)  
-- **Backend:** Node.js, Express, Firebase, MongoDB, PostgreSQL  
-- **Mobile:** Flutter (iOS & Android), Kotlin (Android)  
-- **Other:** GraphQL, REST API, CI/CD (AWS CodePipeline), Docker, Git, AWS, Kubernetes
-- **Algorithms & DS:** Graphs, Dynamic Programming, Greedy, Bitmask, Trees, Strings  
+•	Kotlin, Dart, JavaScript, TypeScript, C++, Java 
+•	Flutter, React, Next, Tailwind, Nuxt, Vue
+•	AWS (EC2, RDS, SQS, Lambda, S3, CDN, Cognito, EventBridge, DynamoDb, SNS, ApiGateway)
+•	PostgeSQL, MongoDb, Firebase, SQLite, REDIS, MYSQL
+•	Singleton,Dependency Injection, Observer, Serveless, Monolith, Pub/Sub, Microservice
+•	Node.js, Express, Docker, CI/CD (GitHub Actions), Kubernetes
+•	Jetpack Compose,View Model, Coroutines, Flow, 
+•	Room, Navigation, Hilt, Clean Architicure, MVVM WorkManager,Testing, Retrofit, Code Review
+•	REST APIs, Websockets, GraphQL, Generative AI 
+•	Jira, GitHub, GitLab, Bloc, Provider, GetIt
+•	Load Balancing, Rate Limiting 
+<img width="468" height="171" alt="image" src="https://github.com/user-attachments/assets/36932731-8e35-4971-a1e9-1ebbe42bdbcd" />
+
 
 ### 🛠️ My Tech Stack
 
@@ -75,21 +83,14 @@ As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and 
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cs,react,vue,nodejs,sqlite,ts,js,html,css,bootstrap,tailwind,postgres,mysql,mongodb,redis,aws,docker,git,github,githubactions,gitlab,postman,powershell,java,visualstudio,vscode,idea,notion" />
 </p>
 
-#### Core Concepts
-- **Architectures:** Clean Architecture, Domain-Driven Design (DDD), Microservice, MVVM, MVI, MVC
-- **Methodologies:** Test-Driven Development (TDD), CI/CD,Cloud Formation
-- **State Management:** BLoC, Cubit,
-- **Principles:** REST APIs, Dependency Injection, Functional Programming
-
----
-
 ## 🚀 Featured Projects
 
 ### Mobile Apps
 
 - **[Tour Explorer (Android)](https://github.com/oganaa2472/tour_app)** – Travel app with tour exploration, bookmarking, and AI-generated profile photos.  
   _Tech:_ Kotlin, Jetpack Compose, MVVM, Retrofit, WorkManager, Google Maps  
-
+- **[Movie App (Android)](https://github.com/oganaa2472/movie_app)** – An Android application that displays a **Most Popular Movies** list with **online and offline support**, built using **Jetpack Compose**, **MVVM architecture**, **Retrofit**, and **Room Database**.
+- **[News App (Android)](https://github.com/oganaa2472/news_app)** –A professional Android application built with **Kotlin** that fetches real-time headlines using the News API.
 - **[Удам](https://play.google.com/store/apps/details?id=mn.starsoft.udam2&hl=en&gl=US)** – Language learning app improving communication skills by 40%.  
   _Tech:_ Flutter, Firebase, MongoDB, SQLite  
 
@@ -101,7 +102,8 @@ As an active competitive programmer, I’ve solved 1,000+ LeetCode problems and 
 
 - **[Accepted App](https://apps.apple.com/cn/app/accepted/id6443476222)** – Coding education app for kids with interactive exercises.  
   _Tech:_ Flutter, Firebase, GraphQL  
-
+- **[Weather App](https://github.com/oganaa2472/WeatherApp)** –  small, modern Android weather application implemented in Kotlin.  
+  _Tech:_ Kotlin, Hilt, Repository  
 ---
 
 ### Web & Full-Stack Projects
