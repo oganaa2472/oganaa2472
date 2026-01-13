@@ -160,7 +160,7 @@ _Tech:_ FLutter,Dart,BLOC, Repository pattern.
 
 ---
 
-### Smaller Projects
+### Smaller Projects React Projects
 
 - **[Travel List](https://travel-list-mng.netlify.app/)** – React app for managing travel destinations.  
 - **[usePopcorn](https://usepopcorn.netlify.app/)** – Custom hook example with API data fetching.  
@@ -184,17 +184,11 @@ _Tech:_ FLutter,Dart,BLOC, Repository pattern.
 ## 📫 Connect with Me
 
 - **GitHub:** [https://github.com/oganaa2472](https://github.com/oganaa2472)  
-- **LeetCode:** [https://leetcode.com/u/keeplearning99/](https://leetcode.com/u/keeplearning99/)  
+- **LeetCode:** [https://leetcode.com/u/keeplearning99/](https://leetcode.com/u/keeplearning99/)
+- **Blog:** [https://oganaa.hashnode.dev/](https://oganaa.hashnode.dev/)  
 - **Portfolio:** [https://portfolio-kohl-phi-92.vercel.app/](https://portfolio-kohl-phi-92.vercel.app/)  
-
 ---
-### 💡 My Development Philosophy
 
-- **Layered Architecture:** I structure my apps using a clear separation of concerns (Presentation → Domain → Data) to ensure scalability and testability.
-- **Testable Code:** I prioritize writing testable code, especially for use cases, repositories, and pure functions.
-- **Strong UX:** I believe in a great user experience, focusing on fast feedback loops, handling empty/error states gracefully, and ensuring accessibility.
-
----
 
 ### 📊 My GitHub Stats
 
