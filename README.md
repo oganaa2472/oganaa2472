@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Gantogtokh%20(Ganaa)&fontSize=70&fontAlignY=38" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=220&section=header&text=Gantogtokh%20(Gana)&fontSize=70&fontAlignY=38" alt="Header Banner"/>
 </p>
 
 <div align="center">
