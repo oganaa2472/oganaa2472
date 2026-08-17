@@ -6,7 +6,7 @@
 
 # Full-Stack & Mobile Developer
 
-Software Developer with **5+ years of experience** building high-quality web, mobile, and Android applications. Proficient in **JavaScript, TypeScript, Flutter, React, Node.js, Kotlin**, and backend systems with **microservices & event-driven architecture**. Experienced in **scalable APIs, async workflows, and distributed systems** powering dynamic user interfaces across platforms.
+Software Developer with **5+ years of experience** building high-quality web, mobile, and Android applications. Proficient in **JavaScript, TypeScript, Flutter, React, Node.js, Kotlin**,**Java** and backend systems with **microservices & event-driven architecture**. Experienced in **scalable APIs, async workflows, and distributed systems** powering dynamic user interfaces across platforms.
 
 Hands-on with **Docker, Kubernetes, AWS**, and passionate about turning technical challenges into **production-ready solutions**. Active competitive programmer, solved **1,000+ LeetCode problems**, top **2.22% globally (Knight badge)**. Explore my projects and blog for insights: [GitHub](https://github.com/oganaa2472) | [Blog](https://oganaa.hashnode.dev)
 
